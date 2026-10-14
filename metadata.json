@@ -1,0 +1,6 @@
+{
+  "name": "MTCE BT Bridge",
+  "description": "Background bridge service and Xposed hook for MTCE Rockchip RK3368 car head units to simulate standard Android Bluetooth for CarPlay and DiPlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

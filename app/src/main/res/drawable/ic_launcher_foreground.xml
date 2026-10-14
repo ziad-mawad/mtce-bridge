@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center automotive badge shield -->
+    <path
+        android:fillColor="#132B4F"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:pathData="M54,24 L76,34 L76,58 C76,71 67,81 54,86 C41,81 32,71 32,58 L32,34 Z" />
+    
+    <!-- Bold Bluetooth Symbol in neon cyan -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,32 L54,76 L66,66 L44,48 L66,38 L54,32 Z" />
+
+    <!-- Radio signal waves around symbol -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFAB00"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M70,47 C72,51 72,57 70,61" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFAB00"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M38,47 C36,51 36,57 38,61" />
+</vector>
